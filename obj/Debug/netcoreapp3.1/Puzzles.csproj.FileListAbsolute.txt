@@ -1,0 +1,10 @@
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.deps.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.runtimeconfig.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.runtimeconfig.dev.json
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.dll
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.pdb
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.csprojAssemblyReference.cache
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.AssemblyInfoInputs.cache
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.AssemblyInfo.cs
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.dll
+/Users/calebgregory/Documents/dojo_assignments/c_sharp/language_fundamentals/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.pdb
